@@ -1,0 +1,4 @@
+                           AWS Charges
+                         ---------------
+
+1. VPC >> NAT gateway -- *Charged per hour. [del when not required]

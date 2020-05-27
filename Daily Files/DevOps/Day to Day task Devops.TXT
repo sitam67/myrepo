@@ -1,0 +1,17 @@
+*********A Red Hat Certified Specialist in Ansible Automation is capable of performing these tasks*******
+
+>> Use Ansible inventories to define groups of hosts Create Ansible playbooks
+>> Use Ansible playbooks to configure systems to a specified state
+>> Create and use Ansible templates to create customized configuration files for hosts
+>> Create Ansible roles
+>> Use Ansible Vault in playbooks to protect sensitive data
+____________________________________________________________________________________________________________________________________
+
+
+****A Red Hat Certified Specialist in Advanced Automation: Ansible Best Practices is capable of performing these tasks*****
+
+>> Understand and use Git to manage collections of playbook.
+>> Administer Ansible task execution
+>> Install and manage access for Ansible Tower
+>> Manage inventories, credentials, advanced inventories, projects, and job workflows
+>> Launch jobs with the Ansible Tower API

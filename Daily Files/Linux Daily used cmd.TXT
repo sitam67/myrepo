@@ -1,0 +1,28 @@
+uname -r >> To display the kernel 
+
+df >> (Disk Free) >>to display the amount of available disk space
+df 
+df -h >> display in MB size
+df -H >> display in GB size
+
+touch file{1..4}	>> It will create 4 files *[o/p-->> file1 file2 file3 file4]*
+
+tail /etc/passwd	>> To display only last 10 lines
+tail -2/etc/passwd
+
+getent passwd		>> To get the list of all users
+vi /etc/shadow		>> To get the list of encrypted passwd of all users
+
+**NANO Editor**
+1. press ctrl o >>write out
+2. press enter
+3. press ctrl x or f2>>exit from nano
+
+**working inside file in VI Editor**
+:se nu		>> To display line number in vi editor
+:se nonu	>> To hide the line number
+56 shift g	>> To jump to the particular line number of any file *[type any number Eg.102 or 56 before pressing shift g]*
+
+find /home -name file1	>> It will find the path of file *Example[o/p-->> /home/ec2-user/file1]*
+find /home		>> It will list all the files under /home directory
+ls -i file1		>> To see the *i-node* number of the file

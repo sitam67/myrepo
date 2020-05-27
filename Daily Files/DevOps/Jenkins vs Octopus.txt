@@ -1,0 +1,18 @@
+*Jenkins vs Octopus*
+
+- Jenkins is an extendable, open-source continuous integration server. You can use Jenkins to compile and test your code,
+ and then have it trigger deployments in Octopus Deploy.
+
+- Just like Jenkins makes build automation easy, Octopus Deploy makes deployment automation easy. 
+Where Jenkins is designed to run a given build on a single build server, 
+Octopus can deploy to hundreds of machines in parallel.
+
+- Jenkins builds the code and runs tests, while Octopus takes care of:
+
+>> Distributing applications to all the remote machines, securely
+>> Environment-specific configuration, like connection strings
+>> Configuring IIS and Tomcat sites and installing Windows Services
+>> Doing all of the above across many machines in paralle
+
+*Integrating Octopus plugin with Jenkins*
+>> https://octopus.com/docs/packaging-applications/build-servers/jenkinss
